@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Ahmed a software engeneering student 
+- 👋 Hi, I’m Ahmed a software engeneer 
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning mobile dev with flutter 
 - 📫 How to reach me -email : ahmedjaidi4@gmail.com
 
 <!---
